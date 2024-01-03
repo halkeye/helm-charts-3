@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://discord.gg/k8s-at-home"><img src="https://img.shields.io/discord/673534664354430999?style=for-the-badge&label&logo=discord&logoColor=white&color=blue"></a>
+<a href="https://discord.gg/home-operations"><img src="https://img.shields.io/discord/673534664354430999?style=for-the-badge&label&logo=discord&logoColor=white&color=blue"></a>
 
 </div>
 
@@ -49,15 +49,15 @@ If you like this project, please consider supporting my work through my [GitHub 
 
 ### Discord
 
-Join the k8s-at-home [Discord](https://discord.gg/k8s-at-home) community on Discord.
+Join the home-operations [Discord](https://discord.gg/home-operations) community on Discord.
 
 ### Repository topics
 
-Have a look at people running Kubernetes at home by checking the ["`k8s-at-home`" topic on GitHub](https://github.com/topics/k8s-at-home?o=desc&s=updated).
+Have a look at people running Kubernetes at home by checking the ["`home-operations`" topic on GitHub](https://github.com/topics/home-operations?o=desc&s=updated).
 
 ### Search
 
-You can use this following [search engine](https://nanne.dev/k8s-at-home-search/) provided by [@whazor](https://github.com/whazor) to search for public
+You can use this following [search engine](https://nanne.dev/home-operations-search/) provided by [@whazor](https://github.com/whazor) to search for public
 repositories containing any application you might wish to run.
 
 ---
